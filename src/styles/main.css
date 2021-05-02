@@ -1,0 +1,31 @@
+.containerPara {
+
+    position: relative;
+
+}
+.backgroundimg{
+    width: 100%;
+    position: absolute;
+}
+.layoutimg1{
+    transform : scale(1,1);
+    width: 100%;
+    position: absolute;
+    margin-bottom: 0px;
+}
+.layoutimg2{
+    transform : scale(1,1);
+    width: 100%;
+    position: absolute;
+    
+}
+.containerPara h1{
+    left: 50%;
+    transform: translateX(-50%);
+    position: absolute;
+    text-align: center;
+}
+.ContainerBody{
+    padding-top: 110%;
+    text-align: center;
+}
